@@ -21,7 +21,7 @@ a:hover {
   font-family: "Sacramento", cursive;
   color: #66bfbf;
 }
-.name-tag {
+h2, .name-tag {
   font-family: "Montserrat", sans-serif;
   font-size: 2rem;
   color: #66bfbf;
