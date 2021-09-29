@@ -1,2 +1,3 @@
-# css-personal-site
-practising css
+# PORTFOLIO 
+
+Deployed on [GitHub](https://dubey-tech.github.io/cv)
